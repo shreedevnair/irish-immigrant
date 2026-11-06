@@ -9,7 +9,7 @@
     gap: 20px;
     border-style: dashed;
     background-size: 150%;
-    width: fit-content;
+    width: 1500px;
     height: 150px;
     background-color: aquamarine;
 }
@@ -42,5 +42,5 @@
 }
 h4 {
     background-color: cadetblue;
-    border-style: groove;
+    border-style: dashed;
 }
