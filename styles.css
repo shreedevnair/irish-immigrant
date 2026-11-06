@@ -1,0 +1,35 @@
+.title {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+.titlehead {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.titleimg {
+    width: 125px;
+    height: 75px;
+    padding-left: 10px;
+}
+.linkbar {
+    word-spacing: 1px;
+    padding-left: 10px;
+}
+.infopan {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+.linkbar {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: medium;
+}
+.linkbar2 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    padding-top: 100px;
+}
