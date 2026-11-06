@@ -33,3 +33,7 @@
     font-size: medium;
     padding-top: 100px;
 }
+.hidden {
+    font-size: xx-small;
+    color: white;
+}
