@@ -9,9 +9,9 @@
     gap: 20px;
     border-style: dashed;
     background-size: 150%;
-    width: 1000px;
+    width: 1250px;
     height: 150px;
-    background-image: linear-gradient(to left, green, white, orange);
+    background-image: linear-gradient(to right, green, white, orange);
     border-radius: 15px;
 }
 .titleimg {
