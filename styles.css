@@ -11,7 +11,8 @@
     background-size: 150%;
     width: 1000px;
     height: 150px;
-    background-color: aquamarine;
+    background-image: url("irish-us.jpg");
+    border-radius: 15px;
 }
 .titleimg {
     width: 125px;
