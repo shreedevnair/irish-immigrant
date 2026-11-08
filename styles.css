@@ -11,7 +11,7 @@
     background-size: 150%;
     width: 1000px;
     height: 150px;
-    background-image: url("irish-us.jpg");
+    background-image: linear-gradient(to left green, white, orange);
     border-radius: 15px;
 }
 .titleimg {
