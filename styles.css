@@ -18,6 +18,7 @@
     width: 125px;
     height: 75px;
     padding-left: 10px;
+    border-radius: 5px;
 }
 .linkbar {
     word-spacing: 1px;
@@ -25,6 +26,9 @@
     font-family: sans-serif;
     font-weight: bold;
     font-size: medium;
+    background-image: linear-gradient(to right, green, white, orange);
+    border-radius: 15px;
+    border-style: hidden;
 }
 .infopan {
     font-family: sans-serif;
@@ -43,7 +47,8 @@
 }
 h4 {
     background-image: linear-gradient(to right, rgb(28, 123, 255), rgb(103, 5, 196));
-    border-style: dashed;
+    border-style: hidden;
+    border-radius: 10px;
 }
 body {
     background-color: lavender;
