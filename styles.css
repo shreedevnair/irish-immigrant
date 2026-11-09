@@ -62,7 +62,7 @@ body {
    display: flex;
    align-items: center;
    gap: 10px;
-   padding-left: 10%;
+   padding-left: 25px;
 }
 .ipic1, .ipic2 {
     height: auto;
